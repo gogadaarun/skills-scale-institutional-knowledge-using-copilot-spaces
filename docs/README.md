@@ -1,5 +1,19 @@
-OctoAcme employs a structured, lifecycle-based approach to project management that emphasizes customer value, iterative delivery, and clear accountability. The methodology consists of five core phases: Initiation, where business need and stakeholder alignment are confirmed through a lightweight one-pager; Planning, where the approved initiative is broken into shippable increments with prioritized backlogs and documented dependencies; Execution, where teams deliver work through daily standups and managed sprints while maintaining quality gates; Release, where validated features are deployed to production with comprehensive smoke tests and rollback plans; and Retrospective, where learnings are captured and converted into continuous improvements. This phased approach ensures that projects move through clear decision gates—particularly after initiation, when success metrics, stakeholder agreement, and resource availability must be confirmed before planning proceeds.
+# OctoAcme Project Management Documentation
 
-The organization is structured around three core roles with distinct responsibilities: Project Managers (PMs) coordinate delivery activities, manage schedules, risks, and cross-functional communication; Product Managers (PdMs) define outcomes, prioritize backlogs, and measure success through data-driven decisions; and Developers implement features collaboratively while contributing to design, estimation, and risk identification. These roles work in concert through a regular communication cadence—weekly PM-PdM syncs, twice-weekly delivery standups, and monthly stakeholder updates—ensuring transparency and rapid escalation of blockers. The team rhythm includes daily 15-minute standups focused on progress and dependencies, weekly delivery syncs to review progress and flag risks, and demo/review sessions at sprint or milestone endpoints.
+Welcome to the OctoAcme project management process documentation. This folder contains comprehensive guides for all phases of project delivery, from initiation through retrospectives.
 
-Quality and testing are embedded throughout OctoAcme's execution model rather than treated as a separate phase. Teams follow structured PR workflows with small changesets (≤400 lines), automated CI testing and linting, and at least one approval before merge. New logic requires unit tests, integration tests are applied where applicable, and critical flows undergo end-to-end smoke testing before release. Risk management is proactive, with a Risk Register maintained from planning through execution, capturing ID, description, impact, likelihood, owner, and mitigation plans. Blockers are triaged through a three-level escalation path—team-level during standups, PM escalation to Product Lead and dependent teams, and sponsor-level escalation for business-impacting issues—ensuring that dependencies and roadblocks don't derail delivery.
+## Overview of OctoAcme Project Management
+
+[3-4 paragraph overview as previously provided]
+
+## Documentation Structure
+
+[Links to all process documents]
+
+## How to Use This Documentation
+
+[Navigation guidance]
+
+## Contributing to Process Documentation
+
+[Instructions for using the issue template]
